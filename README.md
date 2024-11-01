@@ -18,7 +18,11 @@
 124151
 15135
 ```
-4. Запуск скрипта:  
+4. Установка зависимостей
+```shell
+pip install -r requirements.txt
+```
+5. Запуск скрипта:  
 ```shell
 python main.py -f users.txt
 ```
